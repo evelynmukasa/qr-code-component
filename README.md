@@ -48,6 +48,6 @@ I would like to continue learning , css and react but trying to get deep down be
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@evelynmukasa)
+- Frontend Mentor - [@evelynmukasa](https://www.frontendmentor.io/profile/@evelynmukasa)
 
 
