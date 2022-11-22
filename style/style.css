@@ -60,15 +60,28 @@ p{
     display: block;
 }
 footer{
-    position: absolute;
-    bottom:0;
-    margin-bottom: 15px;
     display: block;
+    position: absolute;
+    bottom: 5%;
+    margin-bottom: 15px;
 }
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
+@media (min-width:700px) {
+    .qr-card{
+        width: 40vw ;
+    }
+    
+}
+
+@media (min-width:1024px){
+    .qr-card{
+        width: 30vw;
+    }
+    
+}
 @media (min-width:1440px){
     .qr-card{
       width: 20vw;  
